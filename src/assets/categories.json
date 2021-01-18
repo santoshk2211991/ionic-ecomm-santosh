@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "xLarge",
+        "imgUrl": "/assets/1_1.jpg",
+        "description":"Lorem Ipsum is simply dummy text"
+    },
+    {
+        "id": 2,
+        "name": "Large",
+        "imgUrl":"/assets/2_1.jpg",
+        "description":"Lorem Ipsum is simply dummy text"
+    },
+    {
+        "id": 3,
+        "name": "Fit",
+        "imgUrl": "/assets/3_1.jpg",
+        "description":"Lorem Ipsum is simply dummy text"
+    },
+    {
+        "id": 4,
+        "name": "Small",
+        "imgUrl": "/assets/4_1.jpg",
+        "description":"Lorem Ipsum is simply dummy text"
+    }
+]
