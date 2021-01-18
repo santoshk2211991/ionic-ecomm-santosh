@@ -1,2 +1,2 @@
 # ionic-econm-santosh
-ecommerce app using ionic
+Ionic app for ecommerce.
